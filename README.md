@@ -1,7 +1,6 @@
 
 
 # 👋 Hi, I’m Amith Joseph.
-# 💫 About Me
 <br>👀 I’m a data-driven professional passionate about using analytics to solve business and financial challenges.
 <br>🌱 Currently pursuing my Master’s in Business Analytics, developing expertise in data analysis, business strategy, financial analytics, and technology-driven decision-making.<br>💡 I work with Python, SQL, Excel, Power BI, and cloud technologies to analyze data, generate insights, and drive informed decision-making.<br>💞️ I’m open to collaborating on data-driven projects and exploring opportunities in analytics, finance, business intelligence, and strategy-driven roles—wherever data meets decision-making.<br>📫 Let’s connect! Reach out via email at a0jose07@louisville.edu or connect with me on LinkedIn [https://www.linkedin.com/in/amith-joseph-071406323/].
 
