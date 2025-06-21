@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m Amith Joseph.
+# Hey, I’m Amith Joseph.
 About Me:
 
 <br> I’m a data-driven professional passionate about using analytics to solve business and financial challenges.
